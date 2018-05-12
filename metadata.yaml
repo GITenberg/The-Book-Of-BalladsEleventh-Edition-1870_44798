@@ -1,0 +1,63 @@
+_repo: The-Book-Of-BalladsEleventh-Edition-1870_44798
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Doyle, Richard
+    aliases:
+    - Kitcat, Dick
+    - Doyle, R. (Richard)
+    birthdate: 1824
+    deathdate: 1883
+    gutenberg_agent_id: '9472'
+    url: http://www.gutenberg.org/2009/agents/9472
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Doyle_%28illustrator%29
+  - agent_name: Leech, John
+    alias: Leech, J. (John)
+    birthdate: 1817
+    deathdate: 1864
+    gutenberg_agent_id: '9473'
+    url: http://www.gutenberg.org/2009/agents/9473
+    wikipedia: http://en.wikipedia.org/wiki/John_Leech_%28caricaturist%29
+  - agent_name: Crowquill, Alfred
+    birthdate: 1804
+    deathdate: 1872
+    gutenberg_agent_id: '3698'
+    url: http://www.gutenberg.org/2009/agents/3698
+covers:
+- cover_type: archival
+  image_path: 44798-h/images/coverm.jpg
+creator:
+  authors:
+  - agent_name: Martin, Theodore, Sir
+    aliases:
+    - Martin, Sir Theodore
+    - Gaultier, Bon
+    birthdate: 1816
+    deathdate: 1909
+    gutenberg_agent_id: '2404'
+    url: http://www.gutenberg.org/2009/agents/2404
+    wikipedia: http://en.wikipedia.org/wiki/Theodore_Martin
+  - agent_name: Aytoun, William Edmondstoune
+    aliases:
+    - Aytoun, W. E. (William Edmondstoune)
+    - Jones, T. Percy
+    - Aytoun, W. Edmondstoune (William Edmondstoune)
+    birthdate: 1813
+    deathdate: 1865
+    gutenberg_agent_id: '3764'
+    url: http://www.gutenberg.org/2009/agents/3764
+    wikipedia: http://en.wikipedia.org/wiki/William_Edmonstoune_Aytoun
+description: ''
+gutenberg_issued: '2014-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44798'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Parodies'
+title: "The Book of Ballads\r\nEleventh Edition, 1870"
+url: http://www.gutenberg.org/ebooks/44798
